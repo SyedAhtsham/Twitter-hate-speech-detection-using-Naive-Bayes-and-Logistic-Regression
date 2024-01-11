@@ -1,0 +1,13 @@
+- Remove the words starting with @ and check the model accuracy and f1 measure
+- This will create a new vocabulary with the those words ignored
+- write the conditional probabilities in a text file, and read from there
+- Use text files to store the frequency, probabilities and such things so that you
+don't have to run the code again and again, just compute the final probabilites with test data
+
+IN GRAPH USE THE BUILT-IN F-Measure and plot the graph, and remove the built in f-measure code afterwards
+
+REMOVE THE NLTKs imports, and remove the reminders.txt,
+
+CREATE A REPORT IN WORD, PASTE SCREEN SHOTS AND IMAGES OF PLOTS, WRITE YOUR MOTIVATION ON WHY DID YOU CHOOSE
+THE STOP WORDS REMOVAL AND THE STEMMING FEATURES
+ALSO, DISCUSS ABOUT THE FINDINGS OTHER THINGS MENTIONED IN THE ASSINGMENT
